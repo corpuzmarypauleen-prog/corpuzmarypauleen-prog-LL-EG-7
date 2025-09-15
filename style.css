@@ -1,0 +1,73 @@
+/* Basic Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Body Styling */
+body {
+    font-family: Georgia;
+    line-height: 1.6;
+    background-color: #ffff;
+    color: #0E0004;
+    padding: 20px;
+    
+}
+
+/* Header Styling */
+header {
+    background-color: #441151;
+    color: #CFD8D7;
+    padding: 20px 0;
+    text-align: center;
+    margin-bottom: 30px;
+    border-width: 10px;
+    border-left: #441151;
+    border-color: #441151;
+    border-style: dotted;
+}
+
+/* Section Styling */
+section {
+    background: #ffff;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    border-width: 10px;
+    border-left: #441151;
+    border-color: #441151;
+    border-style: solid;
+}
+
+/* Headings */
+h1 {
+    font-size: 2.5em;
+}
+
+h2 {
+    color: #0E0004;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 10px;
+    color: #0E0004;
+}
+
+h4 {
+    margin-top: 10px;
+    color: #0E0004;
+}
+
+/* Footer Styling */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #ffff;
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: #0E0004;
+}
+
